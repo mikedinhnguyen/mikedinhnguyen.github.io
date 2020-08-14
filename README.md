@@ -1,2 +1,2 @@
-# mikeybear.github.io
-this will be my website :)
+# mikedinhnguyen.github.io
+My website (former known as mikeybear.github.io)
